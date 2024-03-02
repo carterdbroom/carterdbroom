@@ -1,6 +1,6 @@
 # Carter Broom
 
-I'm am a first year Computer Science student at McMaster University that has a passion for programming. The projects I make are made to help solve real life problems.  
+I'm am a first year Computer Science student at McMaster University that has a passion for programming. I make projects to solve real life problems.  
 
 ---
 

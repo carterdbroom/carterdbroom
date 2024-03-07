@@ -11,3 +11,8 @@ I'm am a first year Computer Science student at McMaster University that has a p
 <img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Flutter" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="VSCode" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+
+---
+
+### Stats
+![Carter Broom's GitHub stats](https://github-readme-stats.vercel.app/api?username=carterdbroom&show_icons=true&theme=github_dark)

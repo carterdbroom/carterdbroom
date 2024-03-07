@@ -17,4 +17,4 @@ I'm am a first year Computer Science student at McMaster University that has a p
 ---
 
 ### Stats
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?carterdbroom" frameborder="0"></iframe>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterdbroom&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark)

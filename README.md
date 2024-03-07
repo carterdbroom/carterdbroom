@@ -13,6 +13,7 @@ I'm am a first year Computer Science student at McMaster University that has a p
 <img align="left" alt="VSCode" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 <br>
 <br>
+
 ---
 
 ### Stats

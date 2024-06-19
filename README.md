@@ -18,5 +18,4 @@ Driven by my fascination with technology and its potential to solve real-life pr
 
 ---
 
-### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carterdbroom&size_weight=0.5&count_weight=0.5&show_icons=true&theme=github_dark)
